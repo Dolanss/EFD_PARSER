@@ -1,0 +1,3 @@
+- fix: handle missing optional ICMS fields in RecordE110Parser
+- fix: trim whitespace from pipe-delimited fields in BaseParser
+- fix: handle missing optional ICMS fields in RecordE110Parser
